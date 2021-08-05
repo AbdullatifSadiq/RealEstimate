@@ -1,5 +1,3 @@
-# RealEstimate
-
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
@@ -12,15 +10,15 @@ like the size of the land, the number of bedroom and the number of bathrooms.
 ## Technologies
 Project is created with:
 
-##Front-end
+## Front-end
 * HTML
 * CSS & Boostrap
 * Vanilla Javascript
 
-##Back-end
+## Back-end
 *Python-Flask
 
-##Machine-learning model
+## Machine-learning model
 *Numpy
 *Matplotlib
 *Sklearn
