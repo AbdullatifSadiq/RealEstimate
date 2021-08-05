@@ -27,9 +27,9 @@ Project is created with:
 
 ## Setup
 To Run this application locally:
-*Clone the folder and open it in your text editor
-*Use "pip check" to check is you have of the python dependencies listed above. If you dont use "pip instal <dependencyName>" to instal them.
-*Run the Util.py file in the server folder
-*Run the server.py file in the same folder
-*The port on which the application is running will be provided,copy this link and paste it in your browser.
+* Clone the folder and open it in your text editor
+* Use "pip check" to check is you have of the python dependencies listed above. If you dont use "pip instal <dependencyName>" to instal them.
+* Run the Util.py file in the server folder
+* Run the server.py file in the same folder
+* The port on which the application is running will be provided,copy this link and paste it in your browser.
 Thank You.
