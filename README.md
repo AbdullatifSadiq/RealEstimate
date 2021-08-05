@@ -32,4 +32,5 @@ To Run this application locally:
 * Run the Util.py file in the server folder
 * Run the server.py file in the same folder
 * The port on which the application is running will be provided,copy this link and paste it in your browser.
+
 Thank You.
