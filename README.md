@@ -16,13 +16,13 @@ Project is created with:
 * Vanilla Javascript
 
 ## Back-end
-*Python-Flask
+* Python-Flask
 
 ## Machine-learning model
-*Numpy
-*Matplotlib
-*Sklearn
-*Pandas
+* Numpy
+* Matplotlib
+* Sklearn
+* Pandas
 
 
 ## Setup
